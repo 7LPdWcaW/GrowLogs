@@ -6,55 +6,55 @@
 
 **Strain:** white label
 
-**Planted:** 2019-03-17 21:03
+**Planted:** 2019-04-17 21:03
 
 **From clone?:** false
 
 **Medium:** Soil
 
-**Harvested:** 2019-36-17 15:36
+**Harvested:** 2019-09-17 15:36
 
 ## Stages
 
  - Planted
 
-	 - **Set on:** 2019-03-17 21:03
+	 - **Set on:** 2019-04-17 21:03
 	 - **In stage for:** 4.85 days
 
 
  - Germination
 
-	 - **Set on:** 2019-25-22 17:25
+	 - **Set on:** 2019-04-22 17:25
 	 - **In stage for:** 4.76 days
 
 
  - Vegetation
 
-	 - **Set on:** 2019-36-27 11:36
+	 - **Set on:** 2019-04-27 11:36
 	 - **In stage for:** 37.38 days
 
 
  - Flowering
 
-	 - **Set on:** 2019-41-03 20:41
+	 - **Set on:** 2019-06-03 20:41
 	 - **In stage for:** 70.69 days
 
 
  - Drying
 
-	 - **Set on:** 2019-09-13 13:09
+	 - **Set on:** 2019-08-13 13:09
 	 - **In stage for:** 6.06 days
 
 
  - Curing
 
-	 - **Set on:** 2019-29-19 14:29
+	 - **Set on:** 2019-08-19 14:29
 	 - **In stage for:** 29.05 days
 
 
  - Harvested
 
-	 - **Set on:** 2019-36-17 15:36
+	 - **Set on:** 2019-09-17 15:36
 
 
 ## Stats
@@ -107,63 +107,64 @@
 
 | Date | Stage | Action | Details | Notes |
 | ---- | ----- | ------ | ------- | ----- |
-| 2019-36-17 15:36 | 152/29c | StageChange | Changed to Harvested |  |
-| 2019-29-19 14:29 | 123/6d | StageChange | Changed to Curing |  |
-| 2019-57-19 11:57 | 123/5d | Note |   | 255g |
-| 2019-09-13 13:09 | 117/70f | StageChange | Changed to Drying |  |
-| 2019-28-08 18:28 | 112/65f | Water | **pH:** 5.5 **EC:** 0.25mS/cm  |  |
-| 2019-14-06 18:14 | 110/63f | Water | **pH:** 5.7 **amount:** 15l **EC:** 0.99mS/cm  / **Calmag:** 2ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 3ml/l |  |
-| 2019-13-04 19:13 | 108/61f | Water | **pH:** 5.8 **amount:** 10l **EC:** 0.91mS/cm  / **Calmag:** 2ml/l -- **Canna zym:** 3ml/l -- **Canna boost:** 3ml/l |  |
-| 2019-25-02 20:25 | 106/59f | Water | **pH:** 5.7 **amount:** 15l **EC:** 1mS/cm  / **Calmag:** 2ml/l -- **Canna zym:** 3ml/l -- **Canna boost:** 3ml/l |  |
-| 2019-22-31 18:22 | 104/57f | Water | **pH:** 5.6 **amount:** 15l **EC:** 0.97mS/cm  / **Calmag:** 2ml/l -- **Canna zym:** 3ml/l -- **Canna boost:** 3ml/l |  |
-| 2019-11-29 18:11 | 102/55f | Water | **pH:** 5.8 **EC:** 1.4mS/cm  / **Canna a:** 2.5ml/l -- **Canna b:** 2.5ml/l -- **Calmag:** 2ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 3ml/l |  |
-| 2019-14-28 19:14 | 101/54f | Water | **pH:** 5.8 **EC:** 1.54mS/cm  / **Canna a:** 2.5ml/l -- **Canna b:** 2.5ml/l -- **Calmag:** 2ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 3ml/l |  |
-| 2019-29-26 21:29 | 100/53f | Water | **pH:** 5.8 **EC:** 1.53mS/cm  / **Canna a:** 2.5ml/l -- **Canna b:** 2.5ml/l -- **Calmag:** 2ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 3ml/l |  |
-| 2019-44-25 18:44 | 98/51f | Water | **pH:** 5.6 **EC:** 1.37mS/cm  / **Canna a:** 2.5ml/l -- **Canna b:** 2.5ml/l -- **Calmag:** 2ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 3ml/l |  |
-| 2019-59-23 17:59 | 96/49f | Water | **pH:** 5.7 **amount:** 10l **EC:** 1.39mS/cm  / **Canna a:** 2.5ml/l -- **Canna b:** 2.5ml/l -- **Calmag:** 2ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 3ml/l -- **pk 13/14:** 1ml/l |  |
-| 2019-57-21 19:57 | 94/47f | Water | **pH:** 5.7 **amount:** 6l **EC:** 1.29mS/cm  / **Canna a:** 3ml/l -- **Canna b:** 3ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 3ml/l |  |
-| 2019-45-19 20:45 | 92/46f | Water | **pH:** 5.6 **amount:** 10l **EC:** 1.29mS/cm  / **Canna a:** 3ml/l -- **Canna b:** 3ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 3ml/l |  |
-| 2019-00-17 19:00 | 90/43f | Water | **pH:** 5.6 **amount:** 10l **EC:** 1.29mS/cm  / **Canna a:** 3ml/l -- **Canna b:** 3ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 3ml/l |  |
-| 2019-01-14 20:01 | 87/40f | Water | **pH:** 5.8 **amount:** 10l **EC:** 1.68mS/cm  / **Canna a:** 4ml/l -- **Canna b:** 4ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 3ml/l -- **Pk 13/14:** 1.5ml/l |  |
-| 2019-21-12 21:21 | 86/39f | Water | **pH:** 5.6 **amount:** 15l **EC:** 1.7mS/cm  / **Canna a:** 4ml/l -- **Canna b:** 4ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 3ml/l -- **Pk 13/14:** 1.5ml/l |  |
-| 2019-45-10 18:45 | 83/36f | Water | **pH:** 5.7 **amount:** 10l **EC:** 1.65mS/cm  / **Canna a:** 4ml/l -- **Canna b:** 4ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 3ml/l -- **Pk 13/14:** 1.5ml/l |  |
-| 2019-57-10 07:57 | 83/36f | Note |   | Showing signs of revegging |
-| 2019-22-08 18:22 | 81/34f | Water | **pH:** 5.6  / **Canna a:** 3.5ml/l -- **Canna b:** 3.5ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 2.5ml/l |  |
-| 2019-55-06 19:55 | 79/32f | Water | **pH:** 5.6 **EC:** 1.34mS/cm  / **Canna a:** 3.5ml/l -- **Canna b:** 3.5ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 2.5ml/l |  |
-| 2019-05-04 17:05 | 77/30f | Water | **pH:** 5.4 **amount:** 15l **EC:** 1.36mS/cm  / **Canna a:** 3.5ml/l -- **Canna b:** 3.5ml/l -- **Calmag:** 2ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 1ml/l |  |
-| 2019-38-02 18:38 | 75/28f | Water | **pH:** 5.7 **amount:** 10l **EC:** 1.53mS/cm  / **Canna a:** 3.5ml/l -- **Canna b:** 3.5ml/l -- **Calmag:** 2ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 2.5ml/l |  |
-| 2019-42-28 16:42 | 71/24f | Water | **pH:** 5.6 **EC:** 1.43mS/cm  / **Canna a:** 3.5ml/l -- **Canna b:** 3.5ml/l -- **Rhizotonic:** 0.5ml/l -- **Calmag:** 2ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 2.5ml/l -- **Topmax:** 2ml/l -- **Pk 13/14:** 1.5ml/l |  |
-| 2019-35-25 20:35 | 68/21f | Water | **pH:** 5.5 **amount:** 15l **EC:** 1.59mS/cm  / **Canna a:** 3.5ml/l -- **Canna b:** 3.5ml/l -- **Rhizotonic:** 0.5ml/l -- **Calmag:** 2ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 2.5ml/l -- **Topmax:** 2ml/l -- **Pk 13/14:** 1.5ml/l |  |
-| 2019-47-22 17:47 | 65/18f | Water | **pH:** 5.6 **amount:** 15l **EC:** 1.3mS/cm  / **Canna a:** 3ml/l -- **Canna b:** 3ml/l -- **Rhizotonic:** 0.5ml/l -- **Calmag:** 2ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 2.5ml/l -- **Topmax:** 2ml/l |  |
-| 2019-18-20 17:18 | 63/16f | Water | **pH:** 5.6 **EC:** 1.48mS/cm  / **Canna a:** 3.5ml/l -- **Canna b:** 3.5ml/l -- **Rhizotonic:** 0.5ml/l -- **Calmag:** 2ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 2.5ml/l -- **Topmax:** 2ml/l |  |
-| 2019-06-16 17:06 | 59/12f | Water | **pH:** 5.5 **EC:** 1.35mS/cm  / **Canna a:** 3ml/l -- **Canna b:** 3ml/l -- **Rhizotonic:** 2ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 2ml/l |  |
-| 2019-42-12 18:42 | 55/8f | Water | **pH:** 5.4 **amount:** 15l **EC:** 1.34mS/cm  / **Canna a:** 3ml/l -- **Canna b:** 3ml/l -- **Rhizotonic:** 2ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 2ml/l |  |
-| 2019-38-10 17:38 | 53/6f | Water | **pH:** 5.5 **EC:** 1.34mS/cm  / **Canna a:** 3ml/l -- **Canna b:** 3ml/l -- **Rhizotonic:** 2ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 2ml/l |  |
-| 2019-26-06 17:26 | 49/2f | Water | **pH:** 5.5 **EC:** 1.29mS/cm  / **Canna a:** 3ml/l -- **Canna b:** 3ml/l -- **Rhizotonic:** 2ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 2ml/l |  |
-| 2019-41-03 20:41 | 46/1f | Water | **pH:** 5.6 **EC:** 1.25mS/cm  / **Canna a:** 2.5ml/l -- **Canna b:** 2.5ml/l -- **Rhizotonic:** 2ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l -- **Canna boost:** 2ml/l |  |
-| 2019-41-03 20:41 | 46/37v | StageChange | Changed to Flowering |  |
-| 2019-47-02 17:47 | 45/36v | Action | Transplanted |  |
-| 2019-04-01 19:04 | 44/35v | Water | **pH:** 5.4 **EC:** 1.12mS/cm  / **Canna a:** 2.5ml/l -- **Canna b:** 2.5ml/l -- **Rhizotonic:** 2ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l |  |
-| 2019-48-30 16:48 | 42/33v | Water | **pH:** 5.4 **EC:** 1.12mS/cm  / **Canna a:** 2.5ml/l -- **Canna b:** 2.5ml/l -- **Rhizotonic:** 2ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l |  |
-| 2019-41-27 16:41 | 39/30v | Water | **pH:** 5.4 **EC:** 1.13mS/cm  / **Canna a:** 2.5ml/l -- **Canna b:** 2.5ml/l -- **Rhizotonic:** 2ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l |  |
-| 2019-05-23 19:05 | 35/26v | Water | **pH:** 5.6  / **Canna a:** 2.5ml/l -- **Canna b:** 2.5ml/l -- **Rhizotonic:** 2ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l |  |
-| 2019-13-23 18:13 | 35/26v | Action | Trim |  |
-| 2019-42-21 18:42 | 33/24v | Water | **pH:** 5.6 **EC:** 1.53mS/cm  / **Canna a:** 2.5ml/l -- **Canna b:** 2.5ml/l -- **Rhizotonic:** 2ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l |  |
-| 2019-07-19 18:07 | 31/22v | Water | **pH:** 5.6 **EC:** 1.53mS/cm  / **Canna a:** 2.5ml/l -- **Canna b:** 2.5ml/l -- **Rhizotonic:** 2ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l |  |
-| 2019-05-17 20:05 | 29/20v | Water | **pH:** 5.6 **EC:** 1.53mS/cm  / **Canna a:** 2.5ml/l -- **Canna b:** 2.5ml/l -- **Rhizotonic:** 2ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l |  |
-| 2019-31-15 18:31 | 27/18v | Water | **pH:** 5.5 **EC:** 1.05mS/cm  / **Canna a:** 2.5ml/l -- **Canna b:** 2.5ml/l -- **Rhizotonic:** 2ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l |  |
-| 2019-33-13 17:33 | 25/16v | Water | **pH:** 5.5 **EC:** 1.05mS/cm  / **Canna a:** 2.5ml/l -- **Canna b:** 2.5ml/l -- **Rhizotonic:** 2ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l |  |
-| 2019-32-11 17:32 | 23/14v | Water | **pH:** 5.5 **EC:** 1.05mS/cm  / **Canna a:** 2.5ml/l -- **Canna b:** 2.5ml/l -- **Rhizotonic:** 2ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l |  |
-| 2019-39-09 20:39 | 21/12v | Water | **pH:** 5.5 **EC:** 1.05mS/cm  / **Canna a:** 2.5ml/l -- **Canna b:** 2.5ml/l -- **Rhizotonic:** 2ml/l -- **Calmag:** 1ml/l -- **Canna zym:** 2.5ml/l |  |
-| 2019-45-07 17:45 | 19/10v | Water | **pH:** 5.4 **EC:** 1.19mS/cm  / **Canna a:** 2ml/l -- **Canna b:** 2ml/l -- **Rhizotonic:** 3.5ml/l -- **Calmag:** 2ml/l |  |
-| 2019-43-04 19:43 | 16/7v | Water | **pH:** 5.4 **EC:** 1.19mS/cm  / **Canna a:** 2ml/l -- **Canna b:** 2ml/l -- **Rhizotonic:** 3.5ml/l -- **Calmag:** 2ml/l |  |
-| 2019-00-02 19:00 | 14/5v | Water | **pH:** 5.4 **EC:** 1.19mS/cm  / **Canna a:** 2ml/l -- **Canna b:** 2ml/l -- **Rhizotonic:** 3.5ml/l -- **Calmag:** 2ml/l |  |
-| 2019-00-28 19:00 | 10/1v | Water | **pH:** 5.4 **EC:** 1.19mS/cm  / **Canna a:** 2ml/l -- **Canna b:** 2ml/l -- **Rhizotonic:** 3.5ml/l -- **Calmag:** 2ml/l |  |
-| 2019-37-27 11:37 | 9/1v | Water | **pH:** 5.4 **EC:** 1.19mS/cm  / **Canna a:** 2ml/l -- **Canna b:** 2ml/l -- **Rhizotonic:** 3.5ml/l -- **Calmag:** 2ml/l |  |
-| 2019-36-27 11:36 | 9/4g | StageChange | Changed to Vegetation |  |
-| 2019-36-27 11:36 | 9/4g | Action | Transplanted |  |
-| 2019-25-22 17:25 | 4/4p | StageChange | Changed to Germination |  |
-| 2019-03-17 21:03 |   | StageChange | Changed to Planted |  |
+| 2019-09-17 15:36 | 152/29c | StageChange | Changed to Harvested |  |
+| 2019-08-19 14:29 | 123/6d | StageChange | Changed to Curing |  |
+| 2019-08-19 11:57 | 123/5d | Note |   | 255g |
+| 2019-08-13 13:09 | 117/70f | StageChange | Changed to Drying |  |
+| 2019-08-08 18:28 | 112/65f | Water | **pH:** 5.5 **EC:** 0.25mS/cm  |  |
+| 2019-08-06 18:14 | 110/63f | Water | **pH:** 5.7 **amount:** 15l **EC:** 0.99mS/cm  / **Calmag:** 2ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 3ml/l |  |
+| 2019-08-04 19:13 | 108/61f | Water | **pH:** 5.8 **amount:** 10l **EC:** 0.91mS/cm  / **Calmag:** 2ml/l – **Canna zym:** 3ml/l – **Canna boost:** 3ml/l |  |
+| 2019-08-02 20:25 | 106/59f | Water | **pH:** 5.7 **amount:** 15l **EC:** 1mS/cm  / **Calmag:** 2ml/l – **Canna zym:** 3ml/l – **Canna boost:** 3ml/l |  |
+| 2019-07-31 18:22 | 104/57f | Water | **pH:** 5.6 **amount:** 15l **EC:** 0.97mS/cm  / **Calmag:** 2ml/l – **Canna zym:** 3ml/l – **Canna boost:** 3ml/l |  |
+| 2019-07-29 18:11 | 102/55f | Water | **pH:** 5.8 **EC:** 1.4mS/cm  / **Canna a:** 2.5ml/l – **Canna b:** 2.5ml/l – **Calmag:** 2ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 3ml/l |  |
+| 2019-07-28 19:14 | 101/54f | Water | **pH:** 5.8 **EC:** 1.54mS/cm  / **Canna a:** 2.5ml/l – **Canna b:** 2.5ml/l – **Calmag:** 2ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 3ml/l |  |
+| 2019-07-26 21:29 | 100/53f | Water | **pH:** 5.8 **EC:** 1.53mS/cm  / **Canna a:** 2.5ml/l – **Canna b:** 2.5ml/l – **Calmag:** 2ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 3ml/l |  |
+| 2019-07-25 18:44 | 98/51f | Water | **pH:** 5.6 **EC:** 1.37mS/cm  / **Canna a:** 2.5ml/l – **Canna b:** 2.5ml/l – **Calmag:** 2ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 3ml/l |  |
+| 2019-07-23 17:59 | 96/49f | Water | **pH:** 5.7 **amount:** 10l **EC:** 1.39mS/cm  / **Canna a:** 2.5ml/l – **Canna b:** 2.5ml/l – **Calmag:** 2ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 3ml/l – **pk 13/14:** 1ml/l |  |
+| 2019-07-21 19:57 | 94/47f | Water | **pH:** 5.7 **amount:** 6l **EC:** 1.29mS/cm  / **Canna a:** 3ml/l – **Canna b:** 3ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 3ml/l |  |
+| 2019-07-19 20:45 | 92/46f | Water | **pH:** 5.6 **amount:** 10l **EC:** 1.29mS/cm  / **Canna a:** 3ml/l – **Canna b:** 3ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 3ml/l |  |
+| 2019-07-17 19:00 | 90/43f | Water | **pH:** 5.6 **amount:** 10l **EC:** 1.29mS/cm  / **Canna a:** 3ml/l – **Canna b:** 3ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 3ml/l |  |
+| 2019-07-14 20:01 | 87/40f | Water | **pH:** 5.8 **amount:** 10l **EC:** 1.68mS/cm  / **Canna a:** 4ml/l – **Canna b:** 4ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 3ml/l – **Pk 13/14:** 1.5ml/l |  |
+| 2019-07-12 21:21 | 86/39f | Water | **pH:** 5.6 **amount:** 15l **EC:** 1.7mS/cm  / **Canna a:** 4ml/l – **Canna b:** 4ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 3ml/l – **Pk 13/14:** 1.5ml/l |  |
+| 2019-07-10 18:45 | 83/36f | Water | **pH:** 5.7 **amount:** 10l **EC:** 1.65mS/cm  / **Canna a:** 4ml/l – **Canna b:** 4ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 3ml/l – **Pk 13/14:** 1.5ml/l |  |
+| 2019-07-10 07:57 | 83/36f | Note |   | Showing signs of revegging |
+| 2019-07-08 18:22 | 81/34f | Water | **pH:** 5.6  / **Canna a:** 3.5ml/l – **Canna b:** 3.5ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 2.5ml/l |  |
+| 2019-07-06 19:55 | 79/32f | Water | **pH:** 5.6 **EC:** 1.34mS/cm  / **Canna a:** 3.5ml/l – **Canna b:** 3.5ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 2.5ml/l |  |
+| 2019-07-04 17:05 | 77/30f | Water | **pH:** 5.4 **amount:** 15l **EC:** 1.36mS/cm  / **Canna a:** 3.5ml/l – **Canna b:** 3.5ml/l – **Calmag:** 2ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 1ml/l |  |
+| 2019-07-02 18:38 | 75/28f | Water | **pH:** 5.7 **amount:** 10l **EC:** 1.53mS/cm  / **Canna a:** 3.5ml/l – **Canna b:** 3.5ml/l – **Calmag:** 2ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 2.5ml/l |  |
+| 2019-06-28 16:42 | 71/24f | Water | **pH:** 5.6 **EC:** 1.43mS/cm  / **Canna a:** 3.5ml/l – **Canna b:** 3.5ml/l – **Rhizotonic:** 0.5ml/l – **Calmag:** 2ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 2.5ml/l – **Topmax:** 2ml/l – **Pk 13/14:** 1.5ml/l |  |
+| 2019-06-25 20:35 | 68/21f | Water | **pH:** 5.5 **amount:** 15l **EC:** 1.59mS/cm  / **Canna a:** 3.5ml/l – **Canna b:** 3.5ml/l – **Rhizotonic:** 0.5ml/l – **Calmag:** 2ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 2.5ml/l – **Topmax:** 2ml/l – **Pk 13/14:** 1.5ml/l |  |
+| 2019-06-22 17:47 | 65/18f | Water | **pH:** 5.6 **amount:** 15l **EC:** 1.3mS/cm  / **Canna a:** 3ml/l – **Canna b:** 3ml/l – **Rhizotonic:** 0.5ml/l – **Calmag:** 2ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 2.5ml/l – **Topmax:** 2ml/l |  |
+| 2019-06-20 17:18 | 63/16f | Water | **pH:** 5.6 **EC:** 1.48mS/cm  / **Canna a:** 3.5ml/l – **Canna b:** 3.5ml/l – **Rhizotonic:** 0.5ml/l – **Calmag:** 2ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 2.5ml/l – **Topmax:** 2ml/l |  |
+| 2019-06-16 17:06 | 59/12f | Water | **pH:** 5.5 **EC:** 1.35mS/cm  / **Canna a:** 3ml/l – **Canna b:** 3ml/l – **Rhizotonic:** 2ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 2ml/l |  |
+| 2019-06-12 18:42 | 55/8f | Water | **pH:** 5.4 **amount:** 15l **EC:** 1.34mS/cm  / **Canna a:** 3ml/l – **Canna b:** 3ml/l – **Rhizotonic:** 2ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 2ml/l |  |
+| 2019-06-10 17:38 | 53/6f | Water | **pH:** 5.5 **EC:** 1.34mS/cm  / **Canna a:** 3ml/l – **Canna b:** 3ml/l – **Rhizotonic:** 2ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 2ml/l |  |
+| 2019-06-06 17:26 | 49/2f | Water | **pH:** 5.5 **EC:** 1.29mS/cm  / **Canna a:** 3ml/l – **Canna b:** 3ml/l – **Rhizotonic:** 2ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 2ml/l |  |
+| 2019-06-03 20:41 | 46/1f | Water | **pH:** 5.6 **EC:** 1.25mS/cm  / **Canna a:** 2.5ml/l – **Canna b:** 2.5ml/l – **Rhizotonic:** 2ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l – **Canna boost:** 2ml/l |  |
+| 2019-06-03 20:41 | 46/37v | StageChange | Changed to Flowering |  |
+| 2019-06-02 17:47 | 45/36v | Action | Transplanted |  |
+| 2019-06-01 19:04 | 44/35v | Water | **pH:** 5.4 **EC:** 1.12mS/cm  / **Canna a:** 2.5ml/l – **Canna b:** 2.5ml/l – **Rhizotonic:** 2ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l |  |
+| 2019-05-30 16:48 | 42/33v | Water | **pH:** 5.4 **EC:** 1.12mS/cm  / **Canna a:** 2.5ml/l – **Canna b:** 2.5ml/l – **Rhizotonic:** 2ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l |  |
+| 2019-05-27 16:41 | 39/30v | Water | **pH:** 5.4 **EC:** 1.13mS/cm  / **Canna a:** 2.5ml/l – **Canna b:** 2.5ml/l – **Rhizotonic:** 2ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l |  |
+| 2019-05-23 19:05 | 35/26v | Water | **pH:** 5.6  / **Canna a:** 2.5ml/l – **Canna b:** 2.5ml/l – **Rhizotonic:** 2ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l |  |
+| 2019-05-23 18:13 | 35/26v | Action | Trim |  |
+| 2019-05-21 18:42 | 33/24v | Water | **pH:** 5.6 **EC:** 1.53mS/cm  / **Canna a:** 2.5ml/l – **Canna b:** 2.5ml/l – **Rhizotonic:** 2ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l |  |
+| 2019-05-19 18:07 | 31/22v | Water | **pH:** 5.6 **EC:** 1.53mS/cm  / **Canna a:** 2.5ml/l – **Canna b:** 2.5ml/l – **Rhizotonic:** 2ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l |  |
+| 2019-05-17 20:05 | 29/20v | Water | **pH:** 5.6 **EC:** 1.53mS/cm  / **Canna a:** 2.5ml/l – **Canna b:** 2.5ml/l – **Rhizotonic:** 2ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l |  |
+| 2019-05-15 18:31 | 27/18v | Water | **pH:** 5.5 **EC:** 1.05mS/cm  / **Canna a:** 2.5ml/l – **Canna b:** 2.5ml/l – **Rhizotonic:** 2ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l |  |
+| 2019-05-13 17:33 | 25/16v | Water | **pH:** 5.5 **EC:** 1.05mS/cm  / **Canna a:** 2.5ml/l – **Canna b:** 2.5ml/l – **Rhizotonic:** 2ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l |  |
+| 2019-05-11 17:32 | 23/14v | Water | **pH:** 5.5 **EC:** 1.05mS/cm  / **Canna a:** 2.5ml/l – **Canna b:** 2.5ml/l – **Rhizotonic:** 2ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l |  |
+| 2019-05-09 20:39 | 21/12v | Water | **pH:** 5.5 **EC:** 1.05mS/cm  / **Canna a:** 2.5ml/l – **Canna b:** 2.5ml/l – **Rhizotonic:** 2ml/l – **Calmag:** 1ml/l – **Canna zym:** 2.5ml/l |  |
+| 2019-05-07 17:45 | 19/10v | Water | **pH:** 5.4 **EC:** 1.19mS/cm  / **Canna a:** 2ml/l – **Canna b:** 2ml/l – **Rhizotonic:** 3.5ml/l – **Calmag:** 2ml/l |  |
+| 2019-05-04 19:43 | 16/7v | Water | **pH:** 5.4 **EC:** 1.19mS/cm  / **Canna a:** 2ml/l – **Canna b:** 2ml/l – **Rhizotonic:** 3.5ml/l – **Calmag:** 2ml/l |  |
+| 2019-05-02 19:00 | 14/5v | Water | **pH:** 5.4 **EC:** 1.19mS/cm  / **Canna a:** 2ml/l – **Canna b:** 2ml/l – **Rhizotonic:** 3.5ml/l – **Calmag:** 2ml/l |  |
+| 2019-04-28 19:00 | 10/1v | Water | **pH:** 5.4 **EC:** 1.19mS/cm  / **Canna a:** 2ml/l – **Canna b:** 2ml/l – **Rhizotonic:** 3.5ml/l – **Calmag:** 2ml/l |  |
+| 2019-04-27 11:37 | 9/1v | Water | **pH:** 5.4 **EC:** 1.19mS/cm  / **Canna a:** 2ml/l – **Canna b:** 2ml/l – **Rhizotonic:** 3.5ml/l – **Calmag:** 2ml/l |  |
+| 2019-04-27 11:36 | 9/4g | StageChange | Changed to Vegetation |  |
+| 2019-04-27 11:36 | 9/4g | Action | Transplanted |  |
+| 2019-04-22 17:25 | 4/4p | StageChange | Changed to Germination |  |
+| 2019-04-17 21:03 |   | StageChange | Changed to Planted |  |
+
 
 ## Images
 
