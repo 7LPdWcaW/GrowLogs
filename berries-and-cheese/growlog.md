@@ -183,137 +183,137 @@
 
 ### 2019-05-19 64/3f
 
-![thumbs/1558286103654.jpg](images/1558286103654.jpg)
+[![thumbnail](thumbs/1558286103654.jpg)](images/1558286103654.jpg)
 
 ### 2019-05-21 67/5f
 
-![thumbs/1558460676522.jpg](images/1558460676522.jpg)
+[![thumbnail](thumbs/1558460676522.jpg)](images/1558460676522.jpg)
 
 ### 2019-05-23 68/7f
 
-![thumbs/1558632233628.jpg](images/1558632233628.jpg)
+[![thumbnail](thumbs/1558632233628.jpg)](images/1558632233628.jpg)
 
 ### 2019-05-27 72/11f
 
-![thumbs/1558971560049.jpg](images/1558971560049.jpg)
+[![thumbnail](thumbs/1558971560049.jpg)](images/1558971560049.jpg)
 
 ### 2019-05-30 75/14f
 
-![thumbs/1559232866107.jpg](images/1559232866107.jpg)
+[![thumbnail](thumbs/1559232866107.jpg)](images/1559232866107.jpg)
 
 ### 2019-06-01 78/16f
 
-![thumbs/1559411257113.jpg](images/1559411257113.jpg)
+[![thumbnail](thumbs/1559411257113.jpg)](images/1559411257113.jpg)
 
 ### 2019-06-03 80/19f
 
-![thumbs/1559590652725.jpg](images/1559590652725.jpg)
+[![thumbnail](thumbs/1559590652725.jpg)](images/1559590652725.jpg)
 
 ### 2019-06-06 82/21f
 
-![thumbs/1559838230552.jpg](images/1559838230552.jpg)
+[![thumbnail](thumbs/1559838230552.jpg)](images/1559838230552.jpg)
 
 ### 2019-06-12 89/27f
 
-![thumbs/1560361159670.jpg](images/1560361159670.jpg)
+[![thumbnail](thumbs/1560361159670.jpg)](images/1560361159670.jpg)
 
 ### 2019-06-15 92/31f
 
-![thumbs/1560622745186.jpg](images/1560622745186.jpg)
+[![thumbnail](thumbs/1560622745186.jpg)](images/1560622745186.jpg)
 
 ### 2019-06-25 102/41f
 
-![thumbs/1561491940718.jpg](images/1561491940718.jpg)
+[![thumbnail](thumbs/1561491940718.jpg)](images/1561491940718.jpg)
 
-![thumbs/1561491955403.jpg](images/1561491955403.jpg)
+[![thumbnail](thumbs/1561491955403.jpg)](images/1561491955403.jpg)
 
 ### 2019-06-29 105/44f
 
-![thumbs/1561821453764.jpg](images/1561821453764.jpg)
+[![thumbnail](thumbs/1561821453764.jpg)](images/1561821453764.jpg)
 
-![thumbs/1561821470777.jpg](images/1561821470777.jpg)
+[![thumbnail](thumbs/1561821470777.jpg)](images/1561821470777.jpg)
 
 ### 2019-06-30 106/45f
 
-![thumbs/1561910855943.jpg](images/1561910855943.jpg)
+[![thumbnail](thumbs/1561910855943.jpg)](images/1561910855943.jpg)
 
 ### 2019-07-02 109/48f
 
-![thumbs/1562090202333.jpg](images/1562090202333.jpg)
+[![thumbnail](thumbs/1562090202333.jpg)](images/1562090202333.jpg)
 
 ### 2019-07-06 113/52f
 
-![thumbs/1562439029340.jpg](images/1562439029340.jpg)
+[![thumbnail](thumbs/1562439029340.jpg)](images/1562439029340.jpg)
 
-![thumbs/1562439037319.jpg](images/1562439037319.jpg)
+[![thumbnail](thumbs/1562439037319.jpg)](images/1562439037319.jpg)
 
 ### 2019-07-09 116/55f
 
-![thumbs/1562695494914.jpg](images/1562695494914.jpg)
+[![thumbnail](thumbs/1562695494914.jpg)](images/1562695494914.jpg)
 
-![thumbs/1562695500690.jpg](images/1562695500690.jpg)
+[![thumbnail](thumbs/1562695500690.jpg)](images/1562695500690.jpg)
 
 ### 2019-07-10 117/56f
 
-![thumbs/1562781830935.jpg](images/1562781830935.jpg)
+[![thumbnail](thumbs/1562781830935.jpg)](images/1562781830935.jpg)
 
-![thumbs/1562781835267.jpg](images/1562781835267.jpg)
+[![thumbnail](thumbs/1562781835267.jpg)](images/1562781835267.jpg)
 
 ### 2019-07-12 119/58f
 
-![thumbs/1562962842445.jpg](images/1562962842445.jpg)
+[![thumbnail](thumbs/1562962842445.jpg)](images/1562962842445.jpg)
 
 ### 2019-07-14 121/60f
 
-![thumbs/1563131105041.jpg](images/1563131105041.jpg)
+[![thumbnail](thumbs/1563131105041.jpg)](images/1563131105041.jpg)
 
-![thumbs/1563131110196.jpg](images/1563131110196.jpg)
+[![thumbnail](thumbs/1563131110196.jpg)](images/1563131110196.jpg)
 
 ### 2019-07-17 124/63f
 
-![thumbs/1563386299093.jpg](images/1563386299093.jpg)
+[![thumbnail](thumbs/1563386299093.jpg)](images/1563386299093.jpg)
 
-![thumbs/1563386305003.jpg](images/1563386305003.jpg)
+[![thumbnail](thumbs/1563386305003.jpg)](images/1563386305003.jpg)
 
 ### 2019-07-19 126/65f
 
-![thumbs/1563566296399.jpg](images/1563566296399.jpg)
+[![thumbnail](thumbs/1563566296399.jpg)](images/1563566296399.jpg)
 
-![thumbs/1563566304621.jpg](images/1563566304621.jpg)
+[![thumbnail](thumbs/1563566304621.jpg)](images/1563566304621.jpg)
 
 ### 2019-07-23 130/68f
 
-![thumbs/1563903729303.jpg](images/1563903729303.jpg)
+[![thumbnail](thumbs/1563903729303.jpg)](images/1563903729303.jpg)
 
-![thumbs/1563903735062.jpg](images/1563903735062.jpg)
+[![thumbnail](thumbs/1563903735062.jpg)](images/1563903735062.jpg)
 
 ### 2019-07-25 132/71f
 
-![thumbs/1564077700854.jpg](images/1564077700854.jpg)
+[![thumbnail](thumbs/1564077700854.jpg)](images/1564077700854.jpg)
 
-![thumbs/1564077706935.jpg](images/1564077706935.jpg)
+[![thumbnail](thumbs/1564077706935.jpg)](images/1564077706935.jpg)
 
-![thumbs/1564077767360.jpg](images/1564077767360.jpg)
+[![thumbnail](thumbs/1564077767360.jpg)](images/1564077767360.jpg)
 
 ### 2019-07-28 135/74f
 
-![thumbs/1564338349523.jpg](images/1564338349523.jpg)
+[![thumbnail](thumbs/1564338349523.jpg)](images/1564338349523.jpg)
 
-![thumbs/1564338354242.jpg](images/1564338354242.jpg)
+[![thumbnail](thumbs/1564338354242.jpg)](images/1564338354242.jpg)
 
-![thumbs/1564338495841.jpg](images/1564338495841.jpg)
+[![thumbnail](thumbs/1564338495841.jpg)](images/1564338495841.jpg)
 
 ### 2019-08-04 142/81f
 
-![thumbs/1564943099277.jpg](images/1564943099277.jpg)
+[![thumbnail](thumbs/1564943099277.jpg)](images/1564943099277.jpg)
 
-![thumbs/1564943106027.jpg](images/1564943106027.jpg)
+[![thumbnail](thumbs/1564943106027.jpg)](images/1564943106027.jpg)
 
-![thumbs/1564943276125.jpg](images/1564943276125.jpg)
+[![thumbnail](thumbs/1564943276125.jpg)](images/1564943276125.jpg)
 
 ### 2019-08-19 156/6d
 
-![thumbs/1566221320513.jpg](images/1566221320513.jpg)
+[![thumbnail](thumbs/1566221320513.jpg)](images/1566221320513.jpg)
 
 ## Raw plant data
 
